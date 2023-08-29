@@ -1,5 +1,15 @@
+# Harshini's First CS193 Homework
+
+### My favorite things about CS193:
+- We get to use version control, which is important to know when working on projects involving multiple people
+- I can learn how to use the terminal, which will allow me to navigate files more easily
+- There are a lot of TAs and instructors available to help
+
+
+
+
+
 # Welcome to GitHub Pages
-## This is Harshini's Website for CS193
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
